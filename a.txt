@@ -1,2 +1,3 @@
 Feature A
 Feature D
+Feature E
